@@ -2,7 +2,7 @@
 
 ### git clone
 ```bash
-git clone<repository link>
+git clone <repository link>
 ```
 
 ### check the clone repository
@@ -12,7 +12,7 @@ ls
 
 ### change the directory with the repository name
 ```bash
-cd<repository name>
+cd <repository name>
 ```
 
 ### check the update
