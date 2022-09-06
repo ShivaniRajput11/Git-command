@@ -1,4 +1,4 @@
-# Git-command
+# Git-command:
 
 ### git clone
 ```bash
