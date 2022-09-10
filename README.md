@@ -5,7 +5,7 @@
 git clone <repository link>
 ```
 
-### check the clone repository
+### check the cloned repository
 ```bash
 ls
 ```
