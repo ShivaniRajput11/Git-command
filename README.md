@@ -47,7 +47,7 @@ git status
 git add .
 ```
 
-### again check the status(will show the name of file in green colour)
+### again check the status(will show the name of file in green colour text)
 ```bash 
 git status
 ```
