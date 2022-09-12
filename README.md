@@ -32,7 +32,7 @@ explorer.exe .
 
 ### do copy paste the file to be upload from sytem to desire opened file location
 
-### check if updated successfully
+### check if updated successfully.
 ```bash
 ls
 ```
